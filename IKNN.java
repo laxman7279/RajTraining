@@ -19,6 +19,8 @@ import db.Dataset;
 import spatialindex.spatialindex.*;
 import spatialindex.rtree.*;
 /*This is sample*/
+
+/* Local changes*/
 public class IKNN {
 	private RTree tree;
 	private TreeMap<Double,Point> T;
