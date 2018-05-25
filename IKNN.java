@@ -20,7 +20,7 @@ import spatialindex.spatialindex.*;
 import spatialindex.rtree.*;
 /*This is sample*/
 
-/* Local changes through GUI Here */
+/* Local changes through GUI Here  back to GUI*/
 public class IKNN {
 	private RTree tree;
 	private TreeMap<Double,Point> T;
