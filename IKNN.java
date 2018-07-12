@@ -14,7 +14,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.TreeMap;
 import java.util.TreeSet;
-
+import java.lang.*;
 import db.Dataset;
 import spatialindex.spatialindex.*;
 import spatialindex.rtree.*;
